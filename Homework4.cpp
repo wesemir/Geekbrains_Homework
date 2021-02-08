@@ -94,8 +94,9 @@ int main()
         std::cout << "This year is a leap year" << std::endl;
     }
     else
+    {
         std::cout << "This year is not a leap year";
- 
+    } 
     return 0;
 
 
